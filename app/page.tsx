@@ -4,8 +4,8 @@ import Header from "@/components/Header"
 import HeroSection from "@/components/HeroSection"
 import RecyclingCategories from "@/components/RecyclingCategories"
 import ImpactStats from "@/components/ImpactStats"
-import Quiz from "@/components/QuizSection"
 import CallToAction from "@/components/CalltoAction"
+import RecyclingCalculator from "@/components/RecylingCalculator"
 import Footer from "@/components/Footer"
 
 
@@ -26,14 +26,13 @@ export default function RecyclingApp() {
         {/* Environmental Impact Stats */}
         <ImpactStats />
 
-        {/* Interactive Quiz */}
-        <Quiz />
+        {/* Recycling Calculator */}
+        <RecyclingCalculator />
 
         {/* Call to Action */}
         <CallToAction />
 
         {/* Additional Content */}
-
 
       </main>
 

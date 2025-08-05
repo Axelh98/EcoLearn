@@ -1,0 +1,26 @@
+export const recyclingCalculatorTexts = {
+  en: {
+    title: "♻️ Recycling Benefit Calculator",
+    material: "Material",
+    amount: "Amount",
+    unit: "Unit",
+    kg: "Kilograms (kg)",
+    lb: "Pounds (lb)",
+    energySaved: "Energy Saved",
+    waterSavedLiters: "Water Saved (Liters)",
+    waterSavedGallons: "Water Saved (Gallons)",
+    disclaimer: "Calculations are based on average values per kilogram. Results may vary by local recycling efficiency.",
+  },
+  es: {
+    title: "♻️ Calculadora de Beneficios del Reciclaje",
+    material: "Material",
+    amount: "Cantidad",
+    unit: "Unidad",
+    kg: "Kilogramos (kg)",
+    lb: "Libras (lb)",
+    energySaved: "Energía Ahorrada",
+    waterSavedLiters: "Agua Ahorrada (Litros)",
+    waterSavedGallons: "Agua Ahorrada (Galones)",
+    disclaimer: "Los cálculos se basan en valores promedio por kilogramo. Los resultados pueden variar según la eficiencia local del reciclaje.",
+  },
+}

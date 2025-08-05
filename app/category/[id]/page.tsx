@@ -9,7 +9,6 @@ import Footer from "@/components/Footer"
 import { useCategory } from "@/context/CategoryContext"
 import { CategoryKey } from "@/types/category"
 import { categoryQuizzes } from "@/data/categoryQuizzes"
-import { categoryQuizzes_es } from "@/data/categoryQuizzes_es"
 import CategoryQuiz from "@/components/CategoryQuiz"
 
 export default function CategoryDetail() {
